@@ -2,11 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/brunoalano/brunoalano/master/img.png" alt="Bruno Alano - Full Stack Developer & AI Researcher">
 
-Hello, I'm a Full-Stack & Researcher in Artificial Intelligence focused on Temporal Analysis, Behavioural Psychology and Learning Theory.
+I am a generalist focused on product, deep learning and blockchain.
 
-With 10 years of experience in the Machine Learning area, today I am focused on creating scalable products combining behavioral psychology.
+I worked 7 years as Leadster's CTO & Founder, responsible for building the product, team and culture. I also worked as an external researcher at OpenAI, focusing on natural language processing and recurrent networks, as well as contributing in an opensource way to projects related to machine learning.
 
-One area I have a great interest in is learning theory, and how machines with humans can generate creativity and knowledge, under the strong influence of thinkers like Luhmann and Goethe.
+Between 2017 and 2019, I helped build a cryptocurrency protocol called ECC, focusing on scalability via shardings, but the project ended up being discontinued due to technical limitations. I have experience developing smart contracts and DeFi applications, where my personal focus is on onboarding latin america into web3 ecosystem.
 
 
 ## Find me around the web 🌎:
